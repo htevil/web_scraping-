@@ -11,14 +11,10 @@ class recon:
         self.url = url
         page= requests.get(url)
         soup = BeautifulSoup (page.content, 'html.parser')
-        print(soup.prettify)
-        print( soup.find_all('a'))
+        #print(soup.prettify)
+        print( soup.find_all('herf'))
 
 r = recon()
 r.getall_link(url)
 
 
-"""class recon:
-
-    def getall_link(self):
-        self = url"""
