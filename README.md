@@ -1,2 +1,2 @@
-# web_scraping-
-In this project we scrape link for the websites 
+# web_scraper
+In this project we scrape link for the websites with associated Image.
