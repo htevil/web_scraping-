@@ -1,2 +1,2 @@
 # web_scraper
-In this project we scrape link for the websites with associated Image.
+The main purpose of this particular web scraper is to identify and collect all the links present on a given web page along with their associated Image links.
